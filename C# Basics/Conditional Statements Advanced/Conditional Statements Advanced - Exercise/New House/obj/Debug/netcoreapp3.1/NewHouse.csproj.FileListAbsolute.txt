@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.exe
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.deps.json
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.json
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.runtimeconfig.dev.json
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\bin\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.AssemblyInfo.cs
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.dll
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.pdb
+C:\Users\simon\source\repos\ConditionalStatementsAdvancedExercise\NewHouse\obj\Debug\netcoreapp3.1\NewHouse.genruntimeconfig.cache

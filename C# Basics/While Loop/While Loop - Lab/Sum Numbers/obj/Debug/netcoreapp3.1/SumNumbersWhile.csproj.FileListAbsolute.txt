@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.exe
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.deps.json
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.runtimeconfig.json
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.runtimeconfig.dev.json
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.dll
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.pdb
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.AssemblyInfo.cs
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.dll
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.pdb
+C:\Users\simon\source\repos\WhileLab\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.genruntimeconfig.cache

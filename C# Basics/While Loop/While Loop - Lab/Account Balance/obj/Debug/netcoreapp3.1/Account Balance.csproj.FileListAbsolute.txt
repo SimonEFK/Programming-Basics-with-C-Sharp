@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\WhileLab\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.exe
+C:\Users\simon\source\repos\WhileLab\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.deps.json
+C:\Users\simon\source\repos\WhileLab\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.runtimeconfig.json
+C:\Users\simon\source\repos\WhileLab\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.runtimeconfig.dev.json
+C:\Users\simon\source\repos\WhileLab\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.dll
+C:\Users\simon\source\repos\WhileLab\Account Balance\bin\Debug\netcoreapp3.1\Account Balance.pdb
+C:\Users\simon\source\repos\WhileLab\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\WhileLab\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.AssemblyInfo.cs
+C:\Users\simon\source\repos\WhileLab\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\WhileLab\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.dll
+C:\Users\simon\source\repos\WhileLab\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.pdb
+C:\Users\simon\source\repos\WhileLab\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.genruntimeconfig.cache
+C:\Users\simon\source\repos\WhileLab\Account Balance\obj\Debug\netcoreapp3.1\Account Balance.csprojAssemblyReference.cache

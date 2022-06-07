@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.exe
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.deps.json
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.runtimeconfig.json
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.runtimeconfig.dev.json
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.dll
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\bin\Debug\netcoreapp3.1\Sum of Two Numbers.pdb
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.AssemblyInfo.cs
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.dll
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.pdb
+C:\Users\simon\source\repos\nestedLoopsLab\Sum of Two Numbers\obj\Debug\netcoreapp3.1\Sum of Two Numbers.genruntimeconfig.cache

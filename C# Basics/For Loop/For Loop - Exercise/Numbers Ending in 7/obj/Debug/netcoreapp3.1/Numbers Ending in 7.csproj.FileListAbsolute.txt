@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.exe
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.deps.json
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.runtimeconfig.json
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.runtimeconfig.dev.json
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.dll
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\bin\Debug\netcoreapp3.1\Numbers Ending in 7.pdb
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.AssemblyInfo.cs
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.dll
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.pdb
+C:\Users\simon\source\repos\For LoopExercise\Numbers Ending in 7\obj\Debug\netcoreapp3.1\Numbers Ending in 7.genruntimeconfig.cache

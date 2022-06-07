@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.exe
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.deps.json
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.runtimeconfig.json
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.runtimeconfig.dev.json
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.dll
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\bin\Debug\netcoreapp3.1\Number Pyramid.pdb
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.AssemblyInfo.cs
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.dll
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.pdb
+C:\Users\simon\source\repos\NestedLoopsExcercise\Number Pyramid\obj\Debug\netcoreapp3.1\Number Pyramid.genruntimeconfig.cache

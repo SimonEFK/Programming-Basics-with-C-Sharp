@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\bin\Debug\netcoreapp3.1\Tickets.exe
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\bin\Debug\netcoreapp3.1\Tickets.deps.json
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\bin\Debug\netcoreapp3.1\Tickets.runtimeconfig.json
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\bin\Debug\netcoreapp3.1\Tickets.runtimeconfig.dev.json
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\bin\Debug\netcoreapp3.1\Tickets.dll
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\bin\Debug\netcoreapp3.1\Tickets.pdb
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\obj\Debug\netcoreapp3.1\Tickets.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\obj\Debug\netcoreapp3.1\Tickets.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\obj\Debug\netcoreapp3.1\Tickets.AssemblyInfo.cs
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\obj\Debug\netcoreapp3.1\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\obj\Debug\netcoreapp3.1\Tickets.dll
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\obj\Debug\netcoreapp3.1\Tickets.pdb
+C:\Users\simon\source\repos\nestedLoopsLab\Tickets\obj\Debug\netcoreapp3.1\Tickets.genruntimeconfig.cache

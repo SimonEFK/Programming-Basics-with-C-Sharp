@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\bin\Debug\netcoreapp3.1\Sequance2k+1While.exe
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\bin\Debug\netcoreapp3.1\Sequance2k+1While.deps.json
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\bin\Debug\netcoreapp3.1\Sequance2k+1While.runtimeconfig.json
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\bin\Debug\netcoreapp3.1\Sequance2k+1While.runtimeconfig.dev.json
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\bin\Debug\netcoreapp3.1\Sequance2k+1While.dll
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\bin\Debug\netcoreapp3.1\Sequance2k+1While.pdb
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\obj\Debug\netcoreapp3.1\Sequance2k+1While.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\obj\Debug\netcoreapp3.1\Sequance2k+1While.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\obj\Debug\netcoreapp3.1\Sequance2k+1While.AssemblyInfo.cs
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\obj\Debug\netcoreapp3.1\Sequance2k+1While.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\obj\Debug\netcoreapp3.1\Sequance2k+1While.dll
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\obj\Debug\netcoreapp3.1\Sequance2k+1While.pdb
+C:\Users\simon\source\repos\WhileLab\Sequance2k+1While\obj\Debug\netcoreapp3.1\Sequance2k+1While.genruntimeconfig.cache

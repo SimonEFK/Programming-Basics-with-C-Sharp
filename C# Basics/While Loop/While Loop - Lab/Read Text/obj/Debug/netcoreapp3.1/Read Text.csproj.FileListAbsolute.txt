@@ -1,0 +1,13 @@
+C:\Users\simon\source\repos\WhileLab\Read Text\bin\Debug\netcoreapp3.1\Read Text.exe
+C:\Users\simon\source\repos\WhileLab\Read Text\bin\Debug\netcoreapp3.1\Read Text.deps.json
+C:\Users\simon\source\repos\WhileLab\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.json
+C:\Users\simon\source\repos\WhileLab\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.dev.json
+C:\Users\simon\source\repos\WhileLab\Read Text\bin\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\simon\source\repos\WhileLab\Read Text\bin\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\simon\source\repos\WhileLab\Read Text\obj\Debug\netcoreapp3.1\Read Text.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\WhileLab\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfoInputs.cache
+C:\Users\simon\source\repos\WhileLab\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfo.cs
+C:\Users\simon\source\repos\WhileLab\Read Text\obj\Debug\netcoreapp3.1\Read Text.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\WhileLab\Read Text\obj\Debug\netcoreapp3.1\Read Text.dll
+C:\Users\simon\source\repos\WhileLab\Read Text\obj\Debug\netcoreapp3.1\Read Text.pdb
+C:\Users\simon\source\repos\WhileLab\Read Text\obj\Debug\netcoreapp3.1\Read Text.genruntimeconfig.cache

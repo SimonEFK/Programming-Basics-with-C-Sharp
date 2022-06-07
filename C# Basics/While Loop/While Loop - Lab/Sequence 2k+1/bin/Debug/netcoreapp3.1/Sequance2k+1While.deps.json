@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sequance2k+1While/1.0.0": {
+        "runtime": {
+          "Sequance2k+1While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sequance2k+1While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
